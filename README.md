@@ -1,14 +1,11 @@
-# sito-vetrina
+# Template per sito vetrina
 
-- Design Responsive:
+Sviluppata in Vue + Vite
 
-  - Adattabilità: Il sito deve essere ben visibile e navigabile su dispositivi mobili e desktop.
+Sarà utile? Ai posteri l'ardua sentenza!
 
-- Ottimizzazione SEO:
+Ho deciso di creare una repo per una struttura base per un <br>
+eventuale creazione di sito vetrina e simili.
 
-  - Parole chiave: Utilizzo di keyword pertinenti per migliorare il posizionamento sui motori di ricerca.
-  - Meta tag: Titoli, descrizioni e tag ben ottimizzati.
-
-- Velocità e Prestazioni:
-  - Caricamento rapido: Ottimizzazione delle immagini e del codice per garantire tempi di caricamento rapidi.
-  - Sicurezza: Implementazione di certificati SSL e altre misure di sicurezza.
+Magari potrà tornare utile (spero!) , oltre che a me, a qualche <br>
+collega **Junior Web Dev**
