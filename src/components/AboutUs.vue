@@ -15,8 +15,27 @@ export default {
         <div id="history">
 
             <h3>Storia dell'azienda:</h3>
-            <p>Informazioni su chi siete, la vostra missione e i vostri valori.</p>
-
+            <h4>Informazioni su chi siete</h4>
+            <p class="lorem">
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt unde veniam natus ab.
+                Doloremque
+                veritatis perferendis delectus eius impedit corporis, perspiciatis explicabo repellat officia, deserunt
+                quaerat laborum voluptates maiores aliquam? Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Provident tempore repellendus culpa eius quam, vel animi sit magnam voluptas consequuntur ullam
+                dignissimos minus, reiciendis, nostrum quia totam? Ullam, labore omnis.
+            </p>
+            <h4>La vostra missione</h4>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam error dignissimos aspernatur impedit
+                quibusdam ratione reprehenderit ullam ad distinctio? Corrupti alias dicta quam facilis. Delectus
+                mollitia ab dicta praesentium atque.
+            </p>
+            <h4>I vostri valori.</h4>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam error dignissimos aspernatur impedit
+                quibusdam ratione reprehenderit ullam ad distinctio? Corrupti alias dicta quam facilis. Delectus
+                mollitia ab dicta praesentium atque.
+            </p>
         </div>
 
         <div id="team">
@@ -41,6 +60,10 @@ export default {
 h2,
 h3 {
     padding: 1rem 0;
+}
+
+p {
+    margin: 0 0 1rem 0;
 }
 
 ul {
